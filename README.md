@@ -28,6 +28,6 @@ This is my hello-world repository. I created it for Week 13 Lab 1.
 
 ---
 
-**Date Created:** [TODAY'S DATE]  
-**Course:** [YOUR COURSE]  
+**Date Created:** 11/24/2025 
+**Course:** CS 3377
 **Lab:** Week 13 - Lab 1
